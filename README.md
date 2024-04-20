@@ -1,3 +1,6 @@
+![Screenshot_1713490390](https://github.com/luishh205/Primeiro-App-React-Native/assets/89323852/e21a170f-6744-4659-b96e-1a7e89176188)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
